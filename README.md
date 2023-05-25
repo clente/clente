@@ -1,4 +1,4 @@
-### Hi, I'm C. Lente 👋
+### Hi, I'm Caio Lente 👋
 
 <samp>
 
