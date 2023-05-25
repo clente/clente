@@ -2,10 +2,10 @@
 
 <samp>
 
-📚 I'm a Computer Science master's candidate at [IME-USP](https://www.ime.usp.br/en/dcc), partner and data scientist at [Terranova](http://trnv.com.br/), and partner and teacher at [Curso-R](https://www.curso-r.com/). Occasionally wandering, always lost.
+📚 I'm a computer scientist with an MSc from [IME-USP](https://www.ime.usp.br/en/dcc), a data scientist at [Terranova](http://trnv.com.br/), and a teacher at [Curso-R](https://www.curso-r.com/). Occasionally wandering, always lost.
 
 📝 I particularly love writing about R for [Curso-R's blog](https://www.curso-r.com/author/caio/), but you can find all my articles at [lente.dev](https://lente.dev/). I also wrote [The Zen of R](https://curso-r.github.io/zen-do-r/), a book about programming for non-programmers.
 
-🧠 My interests include Machine Learning, Open Source, Mathematics, Political Economy, Linguistics, Philosophy, Digital Privacy, Design, Science Fiction & Fantasy, and more.
+🧠 My interests include machine learning, open source, mathematics, political economy, linguistics, philosophy, design, sci-fi, fantasy, roleplaying games, and more.
 
 </samp>
